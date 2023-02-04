@@ -1,0 +1,28 @@
+.newProduct{
+    flex:4;
+}
+
+.addProductItem{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+.addProductItem>input{
+    padding:5px;
+    width: 500px;
+}
+
+.addProductButton{
+    margin-top: 15px;
+    border-radius: 2px;
+    border:none;
+    background-color: blueviolet;
+    color: white;
+    width:60px;
+    font-size: 15px;
+    cursor:pointer
+}
+#isSeries{
+    width:100px;
+
+}
